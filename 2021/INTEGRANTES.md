@@ -26,4 +26,4 @@ Rodrigo Torres
 Enzo Rodriguez S
 Esteban Luna Mercado
 Martín E. dos Santos
-Javier Pintos ..
+Javier Pintos .
